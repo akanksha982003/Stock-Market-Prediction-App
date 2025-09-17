@@ -10,7 +10,7 @@ transforming it into input-output pairs, with necessary layers imported for mode
 created and trained for time series forecasting by initializing a sequential model with multiple LSTM layers,
 dropout regularization, and the Adam optimizer to learn complex patterns and make accurate predictions.
 The stock market predictor web application is built using Streamlit that utilizes machine learning and data 
-analysis to forecast stock prices. It imports necessary libraries, loads LSTM model, and takes user imput for 
+analysis to forecast stock prices. It imports necessary libraries, loads LSTM model, and takes user input for 
 stock symbols to retrieve historical data. Key features include stock data retrieval, moving averages, model
 prediction, and visualization. The application provides valuable insights for informed investment decisions
 and offers an interactive interface that enhances the overall user experience, facilitating intuitive navigation
